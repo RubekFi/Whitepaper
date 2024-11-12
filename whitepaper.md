@@ -1,4 +1,3 @@
-
 ---
 title: 'RubekFi: an integrated framework for end-to-end decentralized applications'
 fontsize: 9pt
